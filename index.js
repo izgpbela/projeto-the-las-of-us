@@ -52,3 +52,4 @@ function desativarBotaoSelecionado() {
     const botaoSelecionado = document.querySelector('.selecionado');
     botaoSelecionado.classList.remove('selecionado');
 }
+
